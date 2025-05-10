@@ -11,8 +11,6 @@
 
 ---
 ### 1. Clonar el repositorio
-
-```bash
 git clone https://github.com/diego99m/SDM_2025.5.9.git
 cd SDM_2025.5.9
 ---
