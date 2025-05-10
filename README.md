@@ -9,6 +9,7 @@
 - Laravel 10  
 - XAMPP (Apache y MySQL)  
 
+```bash
 ---
 ### 1. Clonar el repositorio
 git clone https://github.com/diego99m/SDM_2025.5.9.git
